@@ -1,0 +1,2 @@
+# lotto
+java_lotto
