@@ -1,5 +1,3 @@
-package sec13.exam02_random;
-
 import java.util.Arrays;
 import java.util.Random;
 
